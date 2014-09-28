@@ -11,7 +11,7 @@ public class Main {
 		Circulo operaciones = new Circulo();
 		
 
-		Scanner sc = new Scanner(System.in)
+		Scanner sc = new Scanner(System.in);
 		System.out.println("Introduzca el radio del círculo");
 		radio = sc.nextDouble();
 		
@@ -19,7 +19,7 @@ public class Main {
 		circunferencia = operaciones.circun(radio);
 
 	System.out.println("El área del círculo es:" + area);
-	System.out.println("La circunferencia del círculo es:" +circunferencia);
+	System.out.println("La circunferencia del círculo es:" + circunferencia);
 	}
 }
 

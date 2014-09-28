@@ -19,7 +19,7 @@ public class Main {
 		circunferencia = operaciones.circun(radio);
 
 	System.out.println("El área del círculo es:" + area);
-	System.out.println("La circunferencia del círculo es:" +circunferencia);
+	System.out.println("La circunferencia del círculo es:" + circunferencia);
 	}
 }
 
